@@ -1,5 +1,1 @@
-# hello_world
-Test repository
-
-Hello everyone! 
-Just here to test things
+Some of the work to be shared with people.
